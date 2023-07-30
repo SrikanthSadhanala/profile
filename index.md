@@ -10,9 +10,9 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Exploratory Data Analysis
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Learned different techniques to shape the raw data we recive for Data Analysis. These techniques include Data cleaning, Univariant Analysis, Bivariant Analysis and Multi-variant analysis
 
 ## Header 2
 
