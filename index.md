@@ -4,6 +4,14 @@ layout: default
 
 [Link to another page](./another-page.html).
 
+# Machine Learning
+
+## Fraud Detection 
+
+Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorized financial activity. This can include fraudulent credit card transactions, identify theft, cyber hacking, insurance scams, and more.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/srikanthsadhanala/fraud_detection)
+
 # Exploratory Data Analysis
 
 Learned different techniques to shape the raw data we recive for Data Analysis. These techniques include Data cleaning, Univariant Analysis, Bivariant Analysis and Multi-variant analysis
