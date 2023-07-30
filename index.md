@@ -2,23 +2,17 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
 [Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Exploratory Data Analysis
 
 Learned different techniques to shape the raw data we recive for Data Analysis. These techniques include Data cleaning, Univariant Analysis, Bivariant Analysis and Multi-variant analysis
 
-## Header 2
+## Univariant Analysis
 
-> This is a blockquote following a header.
+> In univariant analysis we do analysis based on a single field.
 >
-> When something is important enough, you do it even if the odds are not in your favor.
+> Type of the field could be continuous or categorical.
 
 ### Header 3
 
